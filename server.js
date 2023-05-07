@@ -229,7 +229,8 @@ function insertQueryRole2() {
   {
     type: 'input',
     name: 'addRoleId',
-    message: 'What is the id of the role?'
+    message: 'What is the id of the role?',
+    default: department_nameArray.length
   },
   {
     type: 'input',
