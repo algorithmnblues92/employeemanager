@@ -50,7 +50,7 @@ MIT License
 
 ## Screenshots
 
-![Screenshot 1]('images/employee_manager1.png')
+![Screenshot 1](images/employee_manager1.png)
 
 ## Video Link
 
