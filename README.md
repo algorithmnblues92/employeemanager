@@ -19,7 +19,7 @@
 
 ## Description 
 
-This is a template for creating an Employee Manager, it has a lsit of options to choose from displaying all employees, displaying all roles, displaying all departments, inserting, deleting to each table, viewing all employees by manager or department and lastly viewing the budget of each department. All data is accessible on mysql and prompt is provided by the package inquirer.
+This is a template for creating an Employee Manager, it has a list of options to choose from displaying all employees, displaying all roles, displaying all departments, inserting, deleting to each table, viewing all employees by manager or department and lastly viewing the budget of each department. All data is accessible on mysql and prompt is provided by the package inquirer.
 
 
 ## Installation Instructions
@@ -50,10 +50,11 @@ MIT License
 
 ## Screenshots
 
-![Screenshot 1]placeholder
+![Screenshot 1]('images\employee_manager1.png')
 
+## Video Link
 
-
+https://youtu.be/3Nuc0GN-nHs
 
 ## Questions
 
@@ -65,8 +66,7 @@ algorithmnblues92
 
 algorithmnblues92@gmail.com
 
-### Deployed Link:
 
-placeholder
+
 
  
